@@ -52,8 +52,9 @@ Author URI: http://www.bootstrapthemes.co
     .navbar-default .navbar-collapse, .navbar-default .navbar-form {
         border-color: #e7e7e7;
         margin-top: 53px;
-        background: #ff0000;
+        background: #e3fdff;
     }
+    
     .menu-scroll .navbar-default .navbar-collapse, .navbar-default .navbar-form {
         margin-top: 12px;
     }
@@ -194,6 +195,9 @@ Author URI: http://www.bootstrapthemes.co
     .single_work_overlay{
         padding-top: 25%;
     }
+    div {
+        margin: 0px;
+    }
 
 }
 
@@ -212,6 +216,11 @@ Author URI: http://www.bootstrapthemes.co
     .single_work_overlay{
         padding-top: 15%;
     }
+
+    div {
+        margin: 0px;
+    }
+
 
 }
 
